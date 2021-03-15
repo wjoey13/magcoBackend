@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.get('/', (req,res,next) => {
-    
+
 })
 // app.listen(port, () => {
 //     console.log(`What port is active? it's port ${port}`);
